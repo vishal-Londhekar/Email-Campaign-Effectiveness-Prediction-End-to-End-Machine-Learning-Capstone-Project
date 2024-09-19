@@ -27,10 +27,10 @@ Data preprocessing involves handling missing values, outliers, and transforming 
 # Tech Stack
 1. Programming Language: Python
 2. Libraries:
-* Data Processing: Pandas, NumPy
-* Visualization: Matplotlib, Seaborn
-* Machine Learning: Scikit-learn
-* Model Deployment: Flask, Docker (optional)
+  * Data Processing: Pandas, NumPy
+  * Visualization: Matplotlib, Seaborn
+  * Machine Learning: Scikit-learn
+  * Model Deployment: Flask, Docker (optional)
 3. Tools: Jupyter Notebook, GitHub
 
 # Project Workflow
