@@ -15,7 +15,6 @@ This project focuses on building an end-to-end machine learning pipeline to pred
 
 # Project Objective
 The main objective is to predict the effectiveness of email marketing campaigns, enabling businesses to:
-
 * Optimize their email strategies.
 * Target the right audience.
 * Improve conversion rates and customer engagement.
