@@ -50,3 +50,24 @@ This model helps marketing teams:
 - Segment customers more effectively
 - Time campaigns for maximum engagement
 - Reduce bounce rates and improve ROI
+
+
+## 👤 Author
+**Vishal Londhekar**  
+🎓 Certified Data Analyst/Data Scientist | B.Tech in Mechanical Engineering  
+📫 [LinkedIn](https://www.linkedin.com/in/vishal-londhekar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
